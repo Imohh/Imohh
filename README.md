@@ -58,7 +58,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Javascript</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
+<img height=65px src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"> 
 </td>
 
 <td align="center" width="20%">
