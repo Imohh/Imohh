@@ -77,7 +77,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Laravel</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+<img height=65px src="http://www.webcubictechnologies.com/wp-content/uploads/2017/10/laravel-logo-1-300x225.png"> 
 </td>
 </tr>
 
