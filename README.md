@@ -93,29 +93,3 @@
 
 </tbody>
 </table>
-
-
- 
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-## My Certifications :arrow_down:
-
-- [Red Hat Certified System Administrator](https://drive.google.com/file/d/13EaKphJ3zC1vn1q-nevF6YoJuit_aeik/view?usp=sharing)
-- [Red Hat Certified Specialist in Ansible Automation](https://drive.google.com/file/d/1Nf-0RHdcBAlj1-tMuMy_12cw9d3hGDgN/view?usp=sharing)
-- [Red Hat Certified  Engineer](https://drive.google.com/file/d/1b2ivwSc9fu9V2E7OZ7jrk7YQMaN-T12i/view?usp=sharing) 
-
-
-## My Activities :mailbox_with_mail:
-
-| BLOGS :open_book: | WEBINARS :tv: |
-| :--- | :--- |
-| [How Jenkins can help build your code](https://medium.com/@diptochakrabarty/how-jenkins-can-actually-help-you-build-your-code-with-every-commit-5b9b1278f12f) | [Micorservices with Docker](https://www.youtube.com/watch?v=Xs93YLgYJis&t=1989s) |
-| [Kubernetes and Docker setup using Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa) | [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU) |
-| [Automation with Ansible](https://medium.com/@diptochakrabarty/automation-with-ansible-2ae27fc94947) | [Ansible Automation](https://www.youtube.com/watch?v=r2sZ_aWU8h8) |
-
-If you like the Repository give it a :star: and also follow me on Github :grinning: , you can also see my projects here [Projects](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
-
-----
-Credits: [DiptoChakrabarty](https://github.com/DiptoChakrabarty)
-
-Last Edited on: 31/08/2020
