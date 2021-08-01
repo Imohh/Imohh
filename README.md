@@ -41,7 +41,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Sass</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png"> 
 </td>
 
 <td align="center" width="20%">
