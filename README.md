@@ -34,7 +34,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Angular</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png"> 
 </td>
 </tr>
 
