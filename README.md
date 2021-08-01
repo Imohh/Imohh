@@ -63,7 +63,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Ajax</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/398px-AJAX_logo_by_gengns.svg.png"> 
 </td>
 
 
