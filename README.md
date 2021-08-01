@@ -51,7 +51,7 @@
 
 <td align="center" width="20%">
 <span><b><center>MySQLi</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+<img height=65px src="https://banner2.cleanpng.com/20180404/ytq/kisspng-mysqli-php-database-linux-coding-5ac4824a1185f0.6683682715228278500718.jpg"> 
 </td>
 </tr>
 
