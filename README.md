@@ -24,7 +24,7 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>PHP</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png"> 
 </td>
 
 <td align="center" width="20%">
