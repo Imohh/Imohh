@@ -70,7 +70,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Jquery</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+<img height=65px src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png"> 
 </td>
 </tr>
 
