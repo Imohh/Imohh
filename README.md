@@ -5,7 +5,7 @@
 
 * I am a Fullstack Developer.
 
-* I have done multiple projects ranging from the field of Frontend , Backend to Cloud Computing and Automation :file_cabinet: .
+* I have done multiple projects ranging from the field of Frontend and Backend .
 
 * I am currently brushing up my skills and plan to learn Golang and Devops .
 
