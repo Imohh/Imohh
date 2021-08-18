@@ -13,7 +13,7 @@
 
 * :magnet: You can checkout my projects from here (https://imohcodes.com)
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/imoh-precious/) :sparkler:
+* Connect with me on LinkeDin :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/imoh-precious/) :sparkler:
 
 
 ## Tech Stack :computer:
