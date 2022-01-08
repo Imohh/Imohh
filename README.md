@@ -61,25 +61,11 @@
 <img height=65px src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Ajax</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/398px-AJAX_logo_by_gengns.svg.png"> 
-</td>
 
 
 
-<td align="center" width="20%">
-<span><b><center>Jquery</center></b></span> 
-<img height=65px src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png"> 
-</td>
-</tr>
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Laravel</center></b></span> 
-<img height=65px src="http://www.webcubictechnologies.com/wp-content/uploads/2017/10/laravel-logo-1-300x225.png"> 
-</td>
-</tr>
+
 
 </tbody>
 </table>
