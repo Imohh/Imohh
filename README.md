@@ -38,12 +38,6 @@
 </td>
 </tr>
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Sass</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png"> 
-</td>
-
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
 <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
@@ -60,12 +54,6 @@
 <span><b><center>Javascript</center></b></span> 
 <img height=65px src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"> 
 </td>
-
-
-
-
-
-
 
 </tbody>
 </table>
