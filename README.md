@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Imoh Precious](https://www.linkedin.com/in/imoh-precious/) :satellite:
+* I am [Imoh Precious](https://www.linkedin.com/in/precious-imoh/) :satellite:
 
 * I am a Fullstack Developer.
 
