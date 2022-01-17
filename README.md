@@ -7,8 +7,6 @@
 
 * I have done multiple projects ranging from the field of Frontend and Backend .
 
-* I am currently brushing up my skills and plan to learn Golang and Devops .
-
 * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
 * :magnet: You can checkout my projects from here (https://imohcodes.com)
