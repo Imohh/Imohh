@@ -3,7 +3,7 @@
 
 * I am [Imoh Precious](https://www.linkedin.com/in/precious-imoh/) :satellite:
 
-* I am a Fullstack Developer.
+* Frontend Developer.
 
 * I have done multiple projects ranging from the field of Frontend and Backend .
 
