@@ -23,12 +23,6 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Angular</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png"> 
-</td>
-</tr>
-
-<td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
 <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
