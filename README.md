@@ -7,8 +7,6 @@
 
 * Willing to work on free-lance projects and love to contribute to open source projects :bulb:
 
-* Connect with me on LinkeDin :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/precious-imoh/) :sparkler:
-
 
 ## Tech Stack :computer:
 
