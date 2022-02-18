@@ -5,11 +5,7 @@
 
 * Frontend Developer.
 
-* I have done multiple projects ranging from the field of Frontend and Backend .
-
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
-
-* :magnet: You can checkout my projects from here (https://imohcodes.com)
+* I am willing to work on free-lance projects and love to contribute to open source projects :bulb:
 
 * Connect with me on LinkeDin :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/precious-imoh/) :sparkler:
 
