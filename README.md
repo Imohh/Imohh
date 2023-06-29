@@ -29,6 +29,11 @@
 <span><b><center>MongoDB</center></b></span>
  <img height="65" src="https://img.icons8.com/color/65/mongodb.png" alt="mongodb"/>
 </td>
+
+<td align="center" width="20%">
+<span><b><center>Tailwindcss</center></b></span>
+<img height="65" src="https://img.icons8.com/fluency/65/tailwind_css.png" alt="tailwind_css"/>
+</td>
 </tr>
 
 <tr>
