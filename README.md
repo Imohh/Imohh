@@ -16,24 +16,24 @@
  <tr>
 
 <td align="center" width="20%">
-<span><b><center>ReactJs</center></b></span> 
+<span><b><center>ReactJs</center></b></span>
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
+<span><b><center>Git</center></b></span>
 <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>MySQLi</center></b></span> 
-<img height=65px src="https://banner2.cleanpng.com/20180404/ytq/kisspng-mysqli-php-database-linux-coding-5ac4824a1185f0.6683682715228278500718.jpg"> 
+<span><b><center>MongoDB</center></b></span>
+ <img height="65" src="https://img.icons8.com/color/65/mongodb.png" alt="mongodb"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Javascript</center></b></span> 
+<span><b><center>Javascript</center></b></span>
 <img height=65px src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"> 
 </td>
 
