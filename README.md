@@ -24,14 +24,8 @@ const techStack = {
 - 🤝 Contributing to open-source projects
 - 💡 Solving problems through clean, maintainable code
 
-## 📊 GitHub Stats
-
-![Imoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=imohh&show_icons=true&theme=vue-dark&hide_border=true)
-
 ## 🤝 Let's Connect
 
 I'm always interested in discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out!
 
 ---
-
-⭐ From [Imoh](https://github.com/imohh)
