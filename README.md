@@ -16,18 +16,6 @@ const techStack = {
   tools: ['Git', 'GitHub', 'VS Code'],
 };
 ```
-
-### Languages & Frameworks
-![JavaScript](https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png)
-![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png)
-
-### Styling & Design
-![Tailwind CSS](https://img.icons8.com/fluency/65/tailwind_css.png)
-
-### Database & Tools
-![MongoDB](https://img.icons8.com/color/65/mongodb.png)
-![Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
-
 ## 🚀 What I Do
 
 - 🎨 Build responsive and interactive web applications
