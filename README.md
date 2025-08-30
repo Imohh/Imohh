@@ -1,46 +1,49 @@
-<h1 align="center"> Hello There 👋 </h1>
+# Hi, I'm Imoh 👋
 
+**Frontend Developer | Software Engineer**
 
-* I am [Imoh](https://www.linkedin.com/in/precious-imoh/) :satellite:
+I'm a passionate frontend developer with expertise in modern web technologies. I enjoy building user-centric applications and contributing to open-source projects. Currently open to freelance opportunities and collaborative projects.
 
-* Frontend Developer - Software Engineer.
+🔗 [LinkedIn](https://www.linkedin.com/in/precious-imoh/) | 💼 Available for freelance work
 
-* Willing to work on free-lance projects and love to contribute to open source projects :bulb:
+## 🛠️ Tech Stack
 
+```javascript
+const techStack = {
+  frontend: ['React.js', 'JavaScript', 'Next.js', 'TypeScript', 'HTML5', 'CSS3'],
+  styling: ['Tailwind CSS', 'Styled Components'],
+  database: ['MongoDB'],
+  tools: ['Git', 'GitHub', 'VS Code'],
+};
+```
 
-## Tech Stack :computer:
+### Languages & Frameworks
+![JavaScript](https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png)
+![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png)
 
-<br>
-<table>
-<tbody>
- <tr>
+### Styling & Design
+![Tailwind CSS](https://img.icons8.com/fluency/65/tailwind_css.png" alt="tailwind_css)
 
-<td align="center" width="20%">
-<span><b><center>ReactJs</center></b></span>
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"> 
-</td>
+### Database & Tools
+![MongoDB](https://img.icons8.com/color/65/mongodb.png)
+![Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span>
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
+## 🚀 What I Do
 
-<td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span>
- <img height="65" src="https://img.icons8.com/color/65/mongodb.png" alt="mongodb"/>
-</td>
+- 🎨 Build responsive and interactive web applications
+- 🔧 Transform designs into pixel-perfect, functional interfaces  
+- 🌱 Continuously learning and exploring new technologies
+- 🤝 Contributing to open-source projects
+- 💡 Solving problems through clean, maintainable code
 
-<td align="center" width="20%">
-<span><b><center>Tailwindcss</center></b></span>
-<img height="65" src="https://img.icons8.com/fluency/65/tailwind_css.png" alt="tailwind_css"/>
-</td>
-</tr>
+## 📊 GitHub Stats
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Javascript</center></b></span>
-<img height=65px src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"> 
-</td>
+![Imoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=imohh&show_icons=true&theme=vue-dark&hide_border=true)
 
-</tbody>
-</table>
+## 🤝 Let's Connect
+
+I'm always interested in discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out!
+
+---
+
+⭐ From [Imoh](https://github.com/imohh)
