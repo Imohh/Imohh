@@ -22,7 +22,7 @@ const techStack = {
 ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png)
 
 ### Styling & Design
-![Tailwind CSS](https://img.icons8.com/fluency/65/tailwind_css.png" alt="tailwind_css)
+![Tailwind CSS](https://img.icons8.com/fluency/65/tailwind_css.png)
 
 ### Database & Tools
 ![MongoDB](https://img.icons8.com/color/65/mongodb.png)
