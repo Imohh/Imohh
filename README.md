@@ -4,7 +4,7 @@
 
 I'm a passionate frontend developer with expertise in modern web technologies. I enjoy building user-centric applications and contributing to open-source projects. Currently open to freelance opportunities and collaborative projects.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/precious-imoh/) | 💼 Available for freelance work
+🔗 [LinkedIn](https://www.linkedin.com/in/precious-imoh/) | 💼 Available for freelance work.
 
 ## 🛠️ Tech Stack
 
