@@ -1,6 +1,6 @@
 # Hi, I'm Imoh 👋
 
-**Frontend Developer | Software Engineer**
+**Fullstack Developer | Software Engineer**
 
 I'm a passionate frontend developer with expertise in modern web technologies. I enjoy building user-centric applications and contributing to open-source projects. Currently open to freelance opportunities and collaborative projects.
 
