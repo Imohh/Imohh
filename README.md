@@ -11,7 +11,7 @@ I'm a passionate frontend developer with expertise in modern web technologies. I
 ```javascript
 const techStack = {
   frontend: ['React.js', 'JavaScript', 'Next.js', 'TypeScript', 'HTML5', 'CSS3'],
-  backend: ['Expressjs', 'NodeJS'],
+  backend: ['Expressjs', 'NodeJS', 'Firebase'],
   styling: ['Tailwind CSS', 'Styled Components'],
   database: ['MongoDB'],
   tools: ['Git', 'GitHub', 'VS Code'],
